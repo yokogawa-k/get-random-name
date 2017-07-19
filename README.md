@@ -11,6 +11,12 @@
 
 release から自分の環境にあったものをダウンロードしてきて実行
 
+```console
+$ ./get-random-name-linux_amd64
+quirky-pare
+$ ./get-random-name-linux_amd64
+festive-albattani
+```
 
 ### 参考
 
