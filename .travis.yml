@@ -4,8 +4,9 @@ go:
 env:
   - "PATH=/home/travis/gopath/bin:$PATH"
 before_install:
+  - go get github.com/moby/moby/pkg/namesgenerator
   - go get github.com/mitchellh/gox
-  - gox
+  - gox --osarch "darwin/amd64 linux/386 linux/amd64 windows/amd64"
   - go get github.com/tcnksm/ghr
   - go get github.com/axw/gocov/gocov
   - go get github.com/mattn/goveralls
