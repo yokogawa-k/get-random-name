@@ -1,6 +1,6 @@
 # ランダムな名前を生成してくれるプログラム
 
-[![Build Status](https://travis-ci.org/tcnksm-sample/travis-golang.svg?branch=master)](https://travis-ci.org/tcnksm-sample/travis-golang)
+[![Build Status](https://travis-ci.org/yokogawa-k/get-random-name.svg?branch=master)](https://travis-ci.org/yokogawa-k/get-random-name)
 [![Coverage Status](https://coveralls.io/repos/github/yokogawa-k/get-random-name/badge.svg?branch=master)](https://coveralls.io/github/yokogawa-k/get-random-name?branch=master)
 
 ### 特徴
