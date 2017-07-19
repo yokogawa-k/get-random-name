@@ -12,9 +12,11 @@
 release から自分の環境にあったものをダウンロードしてきて実行
 
 ```console
-$ ./get-random-name-linux_amd64
+$ wget https://github.com/yokogawa-k/get-random-name/releases/download/v0.0.1/get-random-name_linux_amd64
+$ chmod +x get-random-name_linux_amd64
+$ ./get-random-name_linux_amd64
 quirky-pare
-$ ./get-random-name-linux_amd64
+$ ./get-random-name_linux_amd64
 festive-albattani
 ```
 
